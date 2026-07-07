@@ -28,7 +28,7 @@ My long-term goal is to develop machine learning methods that combine strong mat
 
 ---
 
-## News
+## Recent Highlights
 
 - **September 2026** — Presenting *Physics-Informed Neural Networks for Surrogate Modeling and Parameter-Space Generalization in Subsurface Flow* at the **European Conference on the Mathematics of Geological Reservoirs (ECMOR 2026)**, Porto, Portugal.
 
@@ -43,7 +43,7 @@ My long-term goal is to develop machine learning methods that combine strong mat
 A complete list of publications is available on my [Google Scholar profile](https://scholar.google.com/citations?user=ojshPuIAAAAJ&hl=ru).
 
 - **PIEFS: Physics-Informed Eigenfunction Features with Learnable Scaling**  
-  Varvara Nazarenkko, Timur Lidzhiev, Alexander Tarakanov.  
+  Varvara Nazarenko, Timur Lidzhiev, Alexander Tarakanov.  
   *AI4Physics Workshop @ ICML 2026*, 2026.  
   [arXiv](https://arxiv.org/abs/2607.03692)
 
