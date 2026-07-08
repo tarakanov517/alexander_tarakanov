@@ -24,7 +24,7 @@ My current research interests include:
 
 ## Research Vision
 
-My long-term goal is to develop machine learning methods that combine strong mathematical foundations with practical impact. I am particularly interested in incorporating physical laws, geometry, and optimization principles into modern AI systems.
+I develop mathematically grounded machine learning methods that incorporate structure from the real world - physical laws, geometry, uncertainty, and perception - to build reliable and interpretable AI systems.
 
 ---
 
