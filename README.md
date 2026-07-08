@@ -28,6 +28,23 @@ My long-term goal is to develop machine learning methods that combine strong mat
 
 ---
 
+## Research in Industry
+
+Alongside my academic work, I have contributed to industrial R&D projects in recommender systems, representation learning, and computational photography.
+
+### AI VK
+
+Research on large-scale recommender systems, representation learning, and machine learning algorithms.
+
+### Russian Research Institute, Huawei
+
+Research and development of perceptually motivated computational photography algorithms for SDR and HDR displays.
+
+The project combined models of human visual perception with physically based luminance transformations to preserve the perceived appearance of captured scenes across displays with different dynamic ranges and ambient viewing conditions.
+
+The developed methods were integrated into commercial Huawei smartphone imaging and display pipelines.
+---
+
 ## Recent Highlights
 
 - **September 2026** — Presenting *Physics-Informed Neural Networks for Surrogate Modeling and Parameter-Space Generalization in Subsurface Flow* at the **European Conference on the Mathematics of Geological Reservoirs (ECMOR 2026)**, Porto, Portugal.
