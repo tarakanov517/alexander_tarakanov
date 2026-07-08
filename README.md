@@ -24,7 +24,9 @@ My current research interests include:
 
 ## Research Vision
 
-I develop mathematically grounded machine learning methods that incorporate structure from the real world - physical laws, geometry, uncertainty, and perception - to build reliable and interpretable AI systems.
+My research is driven by the idea that modern machine learning systems should not rely on data alone. Instead, they should incorporate structure arising from the real world—physical laws, geometry, uncertainty, and models of human perception.
+
+Across different application domains, including scientific computing, recommender systems, and computational imaging, I develop mathematically grounded learning algorithms that bridge theory and practice. My long-term goal is to build reliable, interpretable, and scalable AI systems with strong mathematical foundations.
 
 ---
 
