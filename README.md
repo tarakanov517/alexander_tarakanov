@@ -28,6 +28,17 @@ My long-term goal is to develop machine learning methods that combine strong mat
 
 ---
 
+## Recent Highlights
+
+- **September 2026** — Presenting *Physics-Informed Neural Networks for Surrogate Modeling and Parameter-Space Generalization in Subsurface Flow* at the **European Conference on the Mathematics of Geological Reservoirs (ECMOR 2026)**, Porto, Portugal.
+
+- **July 2026** — *PIEFS: Physics-Informed Eigenfunction Features with Learnable Scaling* accepted to the **AI4Physics Workshop @ ICML 2026**.
+
+- **March 2026** — Launched a student research project on **sheaf-theoretic methods for Graph Neural Networks and Recommender Systems**, focusing on geometric message passing, learned sheaf structures, and representation learning for recommendation tasks.
+
+---
+
+
 ## Research in Industry
 
 Alongside my academic work, I have contributed to industrial R&D projects in recommender systems, representation learning, and computational photography.
@@ -47,15 +58,7 @@ The developed methods were integrated into commercial Huawei smartphone imaging 
 
 ---
 
-## Recent Highlights
 
-- **September 2026** — Presenting *Physics-Informed Neural Networks for Surrogate Modeling and Parameter-Space Generalization in Subsurface Flow* at the **European Conference on the Mathematics of Geological Reservoirs (ECMOR 2026)**, Porto, Portugal.
-
-- **July 2026** — *PIEFS: Physics-Informed Eigenfunction Features with Learnable Scaling* accepted to the **AI4Physics Workshop @ ICML 2026**.
-
-- **March 2026** — Launched a student research project on **sheaf-theoretic methods for Graph Neural Networks and Recommender Systems**, focusing on geometric message passing, learned sheaf structures, and representation learning for recommendation tasks.
-
----
 
 ## Selected Publications
 
