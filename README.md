@@ -43,6 +43,8 @@ Research and development of perceptually motivated computational photography alg
 The project combined models of human visual perception with physically based luminance transformations to preserve the perceived appearance of captured scenes across displays with different dynamic ranges and ambient viewing conditions.
 
 The developed methods were integrated into commercial Huawei smartphone imaging and display pipelines.
+
+
 ---
 
 ## Recent Highlights
