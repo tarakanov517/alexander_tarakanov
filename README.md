@@ -11,6 +11,8 @@ I am an Associate Professor at the Faculty of Computer Science, HSE University, 
 
 My research lies at the intersection of **Machine Learning**, **Scientific Computing**, and **Applied Mathematics**. I develop mathematically grounded machine learning methods for scientific applications and large-scale AI systems.
 
+My recent work asks when physical structure helps models learn from limited data. I develop physics-informed neural networks that learn families of PDE solutions in a single training run, and I test when these methods improve on classical and data-driven baselines in applications such as subsurface flow and traffic state estimation.
+
 My current research interests include:
 
 - Physics-Informed Machine Learning
@@ -32,9 +34,13 @@ Across different application domains, including scientific computing, recommende
 
 ## Recent Highlights
 
-- **September 2026** — Presenting *Physics-Informed Neural Networks for Surrogate Modeling and Parameter-Space Generalization in Subsurface Flow* at the **European Conference on the Mathematics of Geological Reservoirs (ECMOR 2026)**, Porto, Portugal.
+- **November 2026** — Released two preprints on learning with limited observations. One benchmarks hierarchical physics-informed neural networks against classical PDE surrogates. The other studies when a traffic conservation law improves density estimates as sensor coverage thins.
 
-- **July 2026** — *PIEFS: Physics-Informed Eigenfunction Features with Learnable Scaling* accepted to the **AI4Physics Workshop @ ICML 2026**.
+- **September 2026** — *Physics-Informed Neural Networks for Surrogate Modeling and Parameter-Space Generalization in Subsurface Flow* was accepted for presentation at the **European Conference on the Mathematics of Geological Reservoirs (ECMOR 2026)**, Porto, Portugal.
+
+- **July 2026** — *PIEFS: Physics-Informed Eigenfunction Features with Learnable Scaling* was presented at the **AI4Physics Workshop at ICML 2026** in Seoul, South Korea.
+
+- **June 2026** — Released *Loss-Conditional PINNs for Parametric PDE Families*, which uses one network to learn solution families indexed by loss weights or physical coefficients.
 
 - **March 2026** — Launched a student research project on **sheaf-theoretic methods for Graph Neural Networks and Recommender Systems**, focusing on geometric message passing, learned sheaf structures, and representation learning for recommendation tasks.
 
@@ -62,9 +68,21 @@ The developed methods were integrated into commercial Huawei smartphone imaging 
 
 
 
-## Selected Publications
+## Selected Publications and Preprints
 
 A complete list of publications is available on my [Google Scholar profile](https://scholar.google.com/citations?user=ojshPuIAAAAJ&hl=ru).
+
+- **Physics-informed neural networks in the small-data regime: A controlled comparison with classical PDE surrogates**  
+  Kirill Katsuba, Oleg Rudenko, Egor Bugaev, Alexander Tarakanov.  
+  *arXiv preprint*, 2026. [arXiv:2611.12424](https://arxiv.org/abs/2611.12424)
+
+- **When Does Physics Beat Data? Data-Efficient Traffic State Estimation with Amortized PINNs**  
+  Anna Lazareva, Alexander Tarakanov.  
+  *arXiv preprint*, 2026. [arXiv:2611.11881](https://arxiv.org/abs/2611.11881)
+
+- **Loss-Conditional PINNs for Parametric PDE Families**  
+  Anna Lazareva, Alexander Tarakanov.  
+  *arXiv preprint*, 2026. [arXiv:2606.04420](https://arxiv.org/abs/2606.04420)
 
 - **PIEFS: Physics-Informed Eigenfunction Features with Learnable Scaling**  
   Varvara Nazarenko, Timur Lidzhiev, Alexander Tarakanov.  
