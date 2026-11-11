@@ -34,6 +34,8 @@ Across different application domains, including scientific computing, recommende
 
 ## Recent Highlights
 
+- **November 2026** — *When Does Physics Beat Data? Data-Efficient Traffic State Estimation with Amortized PINNs* was accepted to the **Spatial and Spatiotemporal Data Mining Workshop at IEEE ICDM 2026**. [arXiv:2611.11881](https://arxiv.org/abs/2611.11881)
+
 - **November 2026** — Released two preprints on learning with limited observations. One benchmarks hierarchical physics-informed neural networks against classical PDE surrogates. The other studies when a traffic conservation law improves density estimates as sensor coverage thins.
 
 - **September 2026** — *Physics-Informed Neural Networks for Surrogate Modeling and Parameter-Space Generalization in Subsurface Flow* was accepted for presentation at the **European Conference on the Mathematics of Geological Reservoirs (ECMOR 2026)**, Porto, Portugal.
@@ -78,7 +80,7 @@ A complete list of publications is available on my [Google Scholar profile](http
 
 - **When Does Physics Beat Data? Data-Efficient Traffic State Estimation with Amortized PINNs**  
   Anna Lazareva, Alexander Tarakanov.  
-  *arXiv preprint*, 2026. [arXiv:2611.11881](https://arxiv.org/abs/2611.11881)
+  Accepted to the *Spatial and Spatiotemporal Data Mining Workshop at IEEE ICDM 2026*. [arXiv:2611.11881](https://arxiv.org/abs/2611.11881)
 
 - **Loss-Conditional PINNs for Parametric PDE Families**  
   Anna Lazareva, Alexander Tarakanov.  
