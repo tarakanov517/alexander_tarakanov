@@ -38,14 +38,6 @@ Across different application domains, including scientific computing, recommende
 
 - **November 2026** — Released two preprints on learning with limited observations. One benchmarks hierarchical physics-informed neural networks against classical PDE surrogates. The other studies when a traffic conservation law improves density estimates as sensor coverage thins.
 
-- **September 2026** — *Physics-Informed Neural Networks for Surrogate Modeling and Parameter-Space Generalization in Subsurface Flow* was accepted for presentation at the **European Conference on the Mathematics of Geological Reservoirs (ECMOR 2026)**, Porto, Portugal.
-
-- **July 2026** — *PIEFS: Physics-Informed Eigenfunction Features with Learnable Scaling* was presented at the **AI4Physics Workshop at ICML 2026** in Seoul, South Korea.
-
-- **June 2026** — Released *Loss-Conditional PINNs for Parametric PDE Families*, which uses one network to learn solution families indexed by loss weights or physical coefficients.
-
-- **March 2026** — Launched a student research project on **sheaf-theoretic methods for Graph Neural Networks and Recommender Systems**, focusing on geometric message passing, learned sheaf structures, and representation learning for recommendation tasks.
-
 ---
 
 
